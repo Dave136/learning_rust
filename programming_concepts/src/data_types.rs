@@ -3,8 +3,8 @@
     INTEGER:
     Rust tiene dos tipos de variables:
 
-    El asignado: i8 (-128 a 127)
-    El no asignado: u8 (0 a 255)
+    El asignado(importa el signo): i8 (-128 a 127)
+    El no asignado(no importa el signo): u8 (0 a 255)
 
     El isize y usize son usados dependiendo de la arquitectura
     de la computadora (32bit y 64bit)
